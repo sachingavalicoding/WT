@@ -1,0 +1,14 @@
+<books>
+<book id="1">
+        <title>Book 1</title>
+        <author>Author 1</author>
+        <published_year>2022</published_year>
+        <price>20.00</price>
+    </book>
+    <book id="2">
+        <title>Book 2</title>
+        <author>Author 2</author>
+        <published_year>2020</published_year>
+        <price>15.00</price>
+    </book>
+</books>
