@@ -1,8 +1,7 @@
 <?php
 session_start();
 ?>
-<html>
-
+<html> 
 <body>
     <h1> Hello </h1>
     <?php
